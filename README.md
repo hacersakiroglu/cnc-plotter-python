@@ -1,3 +1,7 @@
 # CNC Plotter Project
-This repository contains my ongoing CNC Plotter development project.
+A simple CNC Plotter that interprets G-code commands and controls stepper motors using Arduino.
+Currently working on:
+- G-code parsing
+- Serial communication
+- Basic motor control logic
 
